@@ -3,4 +3,4 @@ La felicidad en Latinoamérica viene creciendo, a pesar del estancamiento o incl
 
 # Estado
 El trabajo surge de la materia de doctorado "Desigualdad" con Roxana Maurizio y Facundo Alvaredo. Se propone como capítulo 3 del borrador de mi tesis de doctorado. \
-El mismo será presentado el 4 de Agosto de 2023 en el [16º Congreso de la ASET](https://drive.google.com/file/d/1HBAWBZO8dPTfa3jVrfeGkaDcfa8ZPgyD/view).
+El mismo fue presentado el 4 de Agosto de 2023 en el [16º Congreso de la ASET](https://drive.google.com/file/d/1HBAWBZO8dPTfa3jVrfeGkaDcfa8ZPgyD/view).
